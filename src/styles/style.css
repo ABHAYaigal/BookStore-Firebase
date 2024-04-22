@@ -1,0 +1,8 @@
+.backgroundImage {
+    background: url('../assets/books1.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("../assets/books1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
